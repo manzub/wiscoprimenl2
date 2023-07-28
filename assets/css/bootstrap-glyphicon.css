@@ -1,0 +1,6 @@
+.glyphicon-envelope:before {
+    content: "\2709";
+  }
+  .glyphicon-phone-alt:before {
+    content: "\e145";
+  }
